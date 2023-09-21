@@ -1,0 +1,199 @@
+[+] Containers:
+ |- [+] Container: /Game/LEVELS/MainMenu
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:04CCBA5E42488F5B4228E596551AFF6A BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1539129279 Label:BP_Token7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=113.010 Y=97.822 Z=285.087), Max=(X=186.990 Y=182.178 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:0E78B29C42AB06F6F688BD9E6A2A6E39 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:10CAA130497E252A42965F9CB401C35C BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1539126278 Label:BP_Token6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=183.010 Y=7.822 Z=285.087), Max=(X=256.990 Y=92.178 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:11E5A07D4FA39ACD24C6F7973A89FC17 BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1539131280 Label:BP_Token8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=113.010 Y=-182.178 Z=285.087), Max=(X=186.990 Y=-97.822 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1C463C794010705B9CF0DD802EA0AB7C BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1519972275 Label:BP_Token3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-186.990 Y=-182.178 Z=285.087), Max=(X=-113.010 Y=-97.822 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1EF09F3E44A59EAFD0535C92A7712955 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1588909206 Label:BP_InvisibleWalls4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-778.451 Y=600.000 Z=-142.495), Max=(X=-258.836 Y=1200.000 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2AA2F89E40967E0B869097904E51F297 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1524343202 Label:BP_InvisibleWalls3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=260.192 Y=600.000 Z=-142.495), Max=(X=779.808 Y=1200.000 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:367965FC4589013CF93744BE6BAFF77C BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_1904422194 Label:BP_HexPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-258.942 Y=-298.731 Z=1.688), Max=(X=258.942 Y=298.731 Z=275.841) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3F05607442B29701CB5CC4B039A6241D BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_309C238784AFBAAA01_2041441416 Label:PostProcessVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1515.000 Y=-2050.000 Z=-468.263), Max=(X=2635.000 Y=2050.000 Z=4254.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:VFX FolderGuid:F15AE8DE436ED0B65FE78BBB94699F0B
+ |   |   |- Guid:44B35EE743F61167B2E5D89B56CD0F62 BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2104953202 Label:BP_HexPlatform7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-778.942 Y=-298.731 Z=1.842), Max=(X=-261.058 Y=298.731 Z=292.763) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4827864041030048AD9ED88F667CF9F6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:4B5ADFF24408906E6539EAAC300BB63B BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1594791207 Label:BP_InvisibleWalls5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1037.894 Y=152.049 Z=-142.495), Max=(X=-518.278 Y=752.049 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4CBC13954314E5A2DF346F8E63EC9729 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1609759208 Label:BP_InvisibleWalls6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1037.894 Y=-750.385 Z=-142.495), Max=(X=-518.278 Y=-150.385 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4EBB9A054B24D0427671DAA62F1B17BC BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2073317197 Label:BP_HexPlatform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=261.058 Y=-298.731 Z=1.842), Max=(X=778.942 Y=298.731 Z=292.763) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:63F757B74A0AA8ED2AFC71A9D6404D68 BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2092846200 Label:BP_HexPlatform5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-518.942 Y=-748.627 Z=2.149), Max=(X=-1.058 Y=-151.165 Z=326.607) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6CA39EA14235C43DFC3FF19BC13C42BC BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2081313199 Label:BP_HexPlatform4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1.058 Y=151.269 Z=1.381), Max=(X=518.942 Y=748.731 Z=241.997) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:720618AD4761D4A8B80F6E91FA17322C BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_309C238784AF6DAB01_1794718919 Label:HexAcensionMusicCue SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7331C6824F8021A890387CB19396A0FB BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1539123277 Label:BP_Token5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=183.010 Y=-92.178 Z=285.087), Max=(X=256.990 Y=-7.822 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:739AA5EB4C5292F61B31E68D7F91228A BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1529788276 Label:BP_Token4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-186.990 Y=97.822 Z=285.087), Max=(X=-113.010 Y=182.178 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7C20618644E3F6A3A30D25B6EB068616 BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2081310198 Label:BP_HexPlatform3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-518.942 Y=151.269 Z=1.381), Max=(X=-1.058 Y=748.731 Z=241.997) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:926FD04044E39DF35329C4B581B0F176 BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2092849201 Label:BP_HexPlatform6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1.058 Y=-748.731 Z=2.149), Max=(X=518.942 Y=-151.269 Z=326.607) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:94F0D0674A0FACEEEAD5FDB1D608399D BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1472036273 Label:BP_Token SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-256.990 Y=7.822 Z=285.087), Max=(X=-183.010 Y=92.178 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9546DBFC4F94C411F7932B9708EB9199 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1645190213 Label:BP_InvisibleWalls11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-259.649 Y=-1201.427 Z=-142.495), Max=(X=259.967 Y=-601.427 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9D82C62E41A6938055794F8C6113790E BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_309C238784AF70AB01_1355614457 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=590.000 Z=460.000), Max=(X=0.000 Y=590.000 Z=460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9DF759854ADE622A6E9DD28029BE3BDA BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1513419201 Label:BP_InvisibleWalls2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=520.192 Y=150.000 Z=-142.495), Max=(X=1039.808 Y=750.000 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A775F8D84ABEE30DD8E832B8AAE6B322 BaseClass:/Game/BLUEPRINTS/BP_VictoryVolume.BP_VictoryVolume_C NativeClass:/Script/Engine.Actor Name:BP_VictoryVolume_C_UAID_38D5470F97AF54AB01_2053263519 Label:BP_VictoryVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-944.320 Y=-980.000 Z=1940.000), Max=(X=1065.109 Y=1025.835 Z=2040.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B517FA7045ADFF9948C8B9B6014F9347 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1635937212 Label:BP_InvisibleWalls10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=257.934 Y=-1201.427 Z=-142.495), Max=(X=777.549 Y=-601.427 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BFD515084539E2CB25F760859CEF08CE BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1627137211 Label:BP_InvisibleWalls9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=519.559 Y=-750.970 Z=-142.495), Max=(X=1039.174 Y=-150.970 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C2A33B564D290615DDA5A79018C4F96B BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C853B5CC42DF5DEFBE35958F0900CEEF BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1621175210 Label:BP_InvisibleWalls8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=780.604 Y=-300.122 Z=-142.495), Max=(X=1300.220 Y=299.878 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CC0EC1EA4022AD2C75F4C4B8C76FEEEE BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1664157214 Label:BP_InvisibleWalls12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-782.679 Y=-1201.427 Z=-142.495), Max=(X=-263.064 Y=-601.427 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D65840DB4726E29827348B9B085E1404 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_309C238784AF6FAB01_1157253272 Label:ABP_Player SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-52.010 Y=-60.600 Z=293.532), Max=(X=52.004 Y=62.261 Z=485.817) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DC951C0C4EDD7DFBCB163AA25B1C2D8A BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:DD536BB64CCA0AF7FB1EB19F2F61D37D BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=650.000 Z=720.000), Max=(X=0.000 Y=650.000 Z=720.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:E756A6DA4ADCB7ED1A07D38B98364990 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1615454209 Label:BP_InvisibleWalls7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1298.122 Y=-300.122 Z=-142.495), Max=(X=-778.506 Y=299.878 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:EFB9F34B4C887D54D39E2894E3FFFA92 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F2B209B24D80213F2C512DACDEA1AE04 BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1499050274 Label:BP_Token2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-256.990 Y=-92.178 Z=285.087), Max=(X=-183.010 Y=-7.822 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:FB2B409A4E0B7D3A19F8C8B9F8CDD4CF BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1331492199 Label:BP_InvisibleWalls SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-259.808 Y=600.000 Z=-142.495), Max=(X=259.808 Y=1200.000 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:FC24B3BF4E3535CA5C5462A0512D581F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:A775F8D84ABEE30DD8E832B8AAE6B322 BaseClass:/Game/BLUEPRINTS/BP_VictoryVolume.BP_VictoryVolume_C NativeClass:/Script/Engine.Actor Name:BP_VictoryVolume_C_UAID_38D5470F97AF54AB01_2053263519 Label:BP_VictoryVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-944.320 Y=-980.000 Z=1940.000), Max=(X=1065.109 Y=1025.835 Z=2040.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:C853B5CC42DF5DEFBE35958F0900CEEF BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1621175210 Label:BP_InvisibleWalls8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=780.604 Y=-300.122 Z=-142.495), Max=(X=1300.220 Y=299.878 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:63F757B74A0AA8ED2AFC71A9D6404D68 BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2092846200 Label:BP_HexPlatform5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-518.942 Y=-748.627 Z=2.149), Max=(X=-1.058 Y=-151.165 Z=326.607) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:B517FA7045ADFF9948C8B9B6014F9347 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1635937212 Label:BP_InvisibleWalls10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=257.934 Y=-1201.427 Z=-142.495), Max=(X=777.549 Y=-601.427 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:E756A6DA4ADCB7ED1A07D38B98364990 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1615454209 Label:BP_InvisibleWalls7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1298.122 Y=-300.122 Z=-142.495), Max=(X=-778.506 Y=299.878 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:FB2B409A4E0B7D3A19F8C8B9F8CDD4CF BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1331492199 Label:BP_InvisibleWalls SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-259.808 Y=600.000 Z=-142.495), Max=(X=259.808 Y=1200.000 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:D65840DB4726E29827348B9B085E1404 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_309C238784AF6FAB01_1157253272 Label:ABP_Player SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-52.010 Y=-60.600 Z=293.532), Max=(X=52.004 Y=62.261 Z=485.817) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:9546DBFC4F94C411F7932B9708EB9199 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1645190213 Label:BP_InvisibleWalls11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-259.649 Y=-1201.427 Z=-142.495), Max=(X=259.967 Y=-601.427 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:367965FC4589013CF93744BE6BAFF77C BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_1904422194 Label:BP_HexPlatform SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-258.942 Y=-298.731 Z=1.688), Max=(X=258.942 Y=298.731 Z=275.841) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:CC0EC1EA4022AD2C75F4C4B8C76FEEEE BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1664157214 Label:BP_InvisibleWalls12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-782.679 Y=-1201.427 Z=-142.495), Max=(X=-263.064 Y=-601.427 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:3F05607442B29701CB5CC4B039A6241D BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_309C238784AFBAAA01_2041441416 Label:PostProcessVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1515.000 Y=-2050.000 Z=-468.263), Max=(X=2635.000 Y=2050.000 Z=4254.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:VFX FolderGuid:F15AE8DE436ED0B65FE78BBB94699F0B
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:4CBC13954314E5A2DF346F8E63EC9729 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1609759208 Label:BP_InvisibleWalls6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1037.894 Y=-750.385 Z=-142.495), Max=(X=-518.278 Y=-150.385 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:FC24B3BF4E3535CA5C5462A0512D581F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:1C463C794010705B9CF0DD802EA0AB7C BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1519972275 Label:BP_Token3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-186.990 Y=-182.178 Z=285.087), Max=(X=-113.010 Y=-97.822 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:1EF09F3E44A59EAFD0535C92A7712955 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1588909206 Label:BP_InvisibleWalls4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-778.451 Y=600.000 Z=-142.495), Max=(X=-258.836 Y=1200.000 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:94F0D0674A0FACEEEAD5FDB1D608399D BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1472036273 Label:BP_Token SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-256.990 Y=7.822 Z=285.087), Max=(X=-183.010 Y=92.178 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:6CA39EA14235C43DFC3FF19BC13C42BC BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2081313199 Label:BP_HexPlatform4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1.058 Y=151.269 Z=1.381), Max=(X=518.942 Y=748.731 Z=241.997) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:44B35EE743F61167B2E5D89B56CD0F62 BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2104953202 Label:BP_HexPlatform7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-778.942 Y=-298.731 Z=1.842), Max=(X=-261.058 Y=298.731 Z=292.763) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:C2A33B564D290615DDA5A79018C4F96B BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:7C20618644E3F6A3A30D25B6EB068616 BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2081310198 Label:BP_HexPlatform3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-518.942 Y=151.269 Z=1.381), Max=(X=-1.058 Y=748.731 Z=241.997) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:4B5ADFF24408906E6539EAAC300BB63B BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1594791207 Label:BP_InvisibleWalls5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1037.894 Y=152.049 Z=-142.495), Max=(X=-518.278 Y=752.049 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:926FD04044E39DF35329C4B581B0F176 BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2092849201 Label:BP_HexPlatform6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1.058 Y=-748.731 Z=2.149), Max=(X=518.942 Y=-151.269 Z=326.607) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:720618AD4761D4A8B80F6E91FA17322C BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_309C238784AF6DAB01_1794718919 Label:HexAcensionMusicCue SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:DD536BB64CCA0AF7FB1EB19F2F61D37D BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=650.000 Z=720.000), Max=(X=0.000 Y=650.000 Z=720.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:9DF759854ADE622A6E9DD28029BE3BDA BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1513419201 Label:BP_InvisibleWalls2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=520.192 Y=150.000 Z=-142.495), Max=(X=1039.808 Y=750.000 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:4EBB9A054B24D0427671DAA62F1B17BC BaseClass:/Game/BLUEPRINTS/BP_HexPlatform.BP_HexPlatform_C NativeClass:/Script/Engine.Actor Name:BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2073317197 Label:BP_HexPlatform2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=261.058 Y=-298.731 Z=1.842), Max=(X=778.942 Y=298.731 Z=292.763) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:2AA2F89E40967E0B869097904E51F297 BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1524343202 Label:BP_InvisibleWalls3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=260.192 Y=600.000 Z=-142.495), Max=(X=779.808 Y=1200.000 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:DC951C0C4EDD7DFBCB163AA25B1C2D8A BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:0E78B29C42AB06F6F688BD9E6A2A6E39 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:EFB9F34B4C887D54D39E2894E3FFFA92 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:4827864041030048AD9ED88F667CF9F6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:F2B209B24D80213F2C512DACDEA1AE04 BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1499050274 Label:BP_Token2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-256.990 Y=-92.178 Z=285.087), Max=(X=-183.010 Y=-7.822 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:BFD515084539E2CB25F760859CEF08CE BaseClass:/Game/BLUEPRINTS/BP_InvisibleWalls.BP_InvisibleWalls_C NativeClass:/Script/Engine.Actor Name:BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1627137211 Label:BP_InvisibleWalls9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=519.559 Y=-750.970 Z=-142.495), Max=(X=1039.174 Y=-150.970 Z=13423.985) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:739AA5EB4C5292F61B31E68D7F91228A BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1529788276 Label:BP_Token4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-186.990 Y=97.822 Z=285.087), Max=(X=-113.010 Y=182.178 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:7331C6824F8021A890387CB19396A0FB BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1539123277 Label:BP_Token5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=183.010 Y=-92.178 Z=285.087), Max=(X=256.990 Y=-7.822 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:10CAA130497E252A42965F9CB401C35C BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1539126278 Label:BP_Token6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=183.010 Y=7.822 Z=285.087), Max=(X=256.990 Y=92.178 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:04CCBA5E42488F5B4228E596551AFF6A BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1539129279 Label:BP_Token7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=113.010 Y=97.822 Z=285.087), Max=(X=186.990 Y=182.178 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:11E5A07D4FA39ACD24C6F7973A89FC17 BaseClass:/Game/BLUEPRINTS/BP_Token.BP_Token_C NativeClass:/Script/Engine.Actor Name:BP_Token_C_UAID_309C238784AF6FAB01_1539131280 Label:BP_Token8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=113.010 Y=-182.178 Z=285.087), Max=(X=186.990 Y=-97.822 Z=354.913) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:9D82C62E41A6938055794F8C6113790E BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_309C238784AF70AB01_1355614457 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=590.000 Z=460.000), Max=(X=0.000 Y=590.000 Z=460.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-1515.000 Y=-2050.000 Z=-468.263), Max=(X=2635.000 Y=2050.000 Z=13423.985)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/LEVELS/MainMenu
+----------------------------------------------------------------------------------------------------------------
+MainMenu - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 47 
+
+----------------------------------------------------------------------------------------------------------------
+MainMenu - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-1515.000 Y=-2050.000 Z=-468.263), Max=(X=2635.000 Y=2050.000 Z=13423.985)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    4 | Cell Size   25600 | Actor Count   21 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X-1_Y-1
+ |   |- Actor Count: 5
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2092846200
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/0/XH/SQ5P4WW468FTNLPKOJMWW3
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1664157214
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/5/0J/BJZ9W049REFX6DSDKFBDT8
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1609759208
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/6/52/6VF6RP87NDAUFIUZS1QBF3
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_Token_C_UAID_309C238784AF6FAB01_1519972275
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/7/QL/36MSOXVRQJQWASEGF803PJ
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_Token_C_UAID_309C238784AF6FAB01_1499050274
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/5/21/XV8Q83XSTHYPDH5Z4GAN3G
+ |- [+] Content of Cell MainGrid_L0_X0_Y-1
+ |   |- Actor Count: 5
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1635937212
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/1/FT/YIKWSIC7F1VB6NHE35YY45
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2092849201
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/9/F1/E6564MJ7WJDFY90QRRM5PE
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1627137211
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/F/5I/LM5HMV4HUN08CXQJCH331Z
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_Token_C_UAID_309C238784AF6FAB01_1539123277
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/C/9M/7BOUT3SCS4J94JGG18FXH5
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_Token_C_UAID_309C238784AF6FAB01_1539131280
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/F/0P/MMDOKSVJRM2QKFGA6HVZJN
+ |- [+] Content of Cell MainGrid_L0_X-1_Y0
+ |   |- Actor Count: 5
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1588909206
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/7/89/ZS8VD7NAWCMTJQCXO66JI0
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_Token_C_UAID_309C238784AF6FAB01_1472036273
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/C/R6/U5QYMLDFD0HYMXW99POGT3
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2081310198
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/8/UM/U93QXREP4PEIFG23P0AKU8
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1594791207
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/8/UP/H34G4S3PK6KV362TFVVLE0
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_Token_C_UAID_309C238784AF6FAB01_1529788276
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/D/XA/0PYEC05B2UHY8KPVM2UXS9
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 6
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_HexPlatform_C_UAID_38D5470F97AF25AA01_2081313199
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/7/OS/4KWHRK1CILRZKXM404KGCD
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.AmbientSound_UAID_309C238784AF6DAB01_1794718919
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/9/K1/1XRE3ARK4C3R748AR7VZC9
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1513419201
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/A/FD/EPODP25DROZ9AAW729XGHN
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_InvisibleWalls_C_UAID_38D5470F97AF0EAB01_1524343202
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/A/TT/F379233MRCJPPLUK65I4SW
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_Token_C_UAID_309C238784AF6FAB01_1539126278
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/D/2V/6YLLX7HNOEYYTOEJCE6Q19
+ |   |- Actor Path: /Game/LEVELS/MainMenu.MainMenu:PersistentLevel.BP_Token_C_UAID_309C238784AF6FAB01_1539129279
+ |   |- Actor Package: /Game/__ExternalActors__/LEVELS/MainMenu/4/7H/SOPWRZYG6U144WZAIN9MZV
+[+] Content of Grid Level 1
+
